@@ -1,0 +1,6 @@
+export ZSH="/root/.oh-my-zsh"
+ZSH_THEME="awesomepanda"
+
+source $ZSH/oh-my-zsh.sh
+
+alias ll="ls -alFh"
